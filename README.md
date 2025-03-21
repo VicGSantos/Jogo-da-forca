@@ -21,4 +21,4 @@ Para rodar o jogo no seu computador, basta seguir os seguintes passos:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-forca.git
+   git clone https://github.com/VicGSantos/Jogo-da-forca
